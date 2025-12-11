@@ -1,0 +1,13 @@
+Rapport statistiques compagnie aérienne
+
+Statistiques générales
+---------------------
+Vols : 2
+Passagers inscrits : 3
+Passagers transportés : 3
+Revenus estimés : 450,00 €
+
+Destinations populaires
+----------------------
+1. New York JFK (2 passagers)
+2. Londres LHR (1 passagers)
